@@ -1,2 +1,2 @@
-# Veddhansh
+# veddhansh
 Practice 
